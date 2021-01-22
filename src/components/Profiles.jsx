@@ -1,14 +1,7 @@
+import React from "react";
 
-import './App.css';
-import Header from './components/Header';
-import Navbar from './components/Navbar';
-
-
-const App = () => {
-  return (<div className="app-wrapper">
-    <Header />
-    <Navbar />
-    <div className="content">
+const Profiles = () => {
+    return (<div className="content">
     <div>
     <img src="https://vgtimes.ru/uploads/games_previews/41650/forest-2014_vgdb.jpg" />
     </div>
@@ -29,8 +22,7 @@ const App = () => {
       <div>Post 2</div>
     </div>
       
-    </div>
-</div>);   
+    </div>);
 }
 
-export default App;
+export default Profiles;
