@@ -14,9 +14,7 @@ const Navbar = () => {
     <div>
     <a>Music</a>
     </div>
-    <div>
-      <a>Settings</a>
-    </div>
+    
     
   </nav>;
 }
