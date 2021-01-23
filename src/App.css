@@ -11,29 +11,5 @@
   /*grid-gap: 10px;*/
 }
 
-.header{
-  grid-area: h;
-  background-color: green;
-  padding-top: 10px;
-  padding-left: 10px;
 
-}
 
-.header img {
-  width: 50px;
-}
-
-.nav {
-  grid-area: n;
-
-}
-
-.content {
-
-  grid-area: c;
-
-}
-
-.avatar{
-  width: 180px;
-}
